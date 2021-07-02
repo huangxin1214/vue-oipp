@@ -1,0 +1,15 @@
+.el--about-out {
+    display: flex;
+
+    .el-form-item__content {
+        width: 100px !important;
+    }
+}
+
+body,
+html,
+#app,
+.el-container,
+.el-menu {
+    height: 100% !important;
+}
